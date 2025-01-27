@@ -14,12 +14,12 @@ This repository features basic coding projects I’ve created using HTML, CSS, a
 
 ### 2. **Lab 0506**
 - **Description:** The assignment involves practicing JavaScript programming by completing individual and group tasks, such as converting if/then statements to switch statements, creating loops, reversing strings, and building programs like quizzes and guessing games. The assignment also includes proper structuring and validation of HTML documents and organizing JavaScript files in a designated folder for submission.
-- **Live Demo Task 1:** [View Live Project](https://maxemiliano57.github.io/lab0506/)
-- **Live Demo Task 2:** [View Live Project](https://maxemiliano57.github.io/lab0506/)
-- **Live Demo Task 3:** [View Live Project](https://maxemiliano57.github.io/lab0506/)
-- **Live Demo Task 4:** [View Live Project](https://maxemiliano57.github.io/lab0506/)
-- **Live Demo Task 5:** [View Live Project](https://maxemiliano57.github.io/lab0506/)
-- **Live Demo Task 6:** [View Live Project](https://maxemiliano57.github.io/lab0506/)
+- **Live Demo Task 1:** [View Live Project](https://maxemiliano57.github.io/lab0506/Task1)
+- **Live Demo Task 2:** [View Live Project](https://maxemiliano57.github.io/lab0506/Task2)
+- **Live Demo Task 3:** [View Live Project](https://maxemiliano57.github.io/lab0506/Task3)
+- **Live Demo Task 4:** [View Live Project](https://maxemiliano57.github.io/lab0506/Task4)
+- **Live Demo Task 5:** [View Live Project](https://maxemiliano57.github.io/lab0506/Task5)
+- **Live Demo Task 6:** [View Live Project](https://maxemiliano57.github.io/lab0506/Task6)
 ---
 
 ### 3. **Lab 10**
