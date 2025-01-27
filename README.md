@@ -47,7 +47,7 @@ All files were organized into appropriate directories (html, css, img, and js) f
 
   ---
 
-  ### 6. **Assignment 2**
+### 6. **Assignment 2**
 - **Description:** The assignment focuses on creating a survey form with form validation using HTML, CSS, and JavaScript. The form collects user input, validates it with JavaScript using patterns and hints, and displays the results dynamically on the page. Users are shown a badge based on their survey responses, and logic determines the badge displayed. The form includes personal information inputs (name, phone, email, URL) and at least two survey questions with radio buttons. All files are organized into appropriate directories for HTML, CSS, JavaScript, and images.
 - **Live Demo:** [View Live Project](https://maxemiliano57.github.io/assignment2)
 
