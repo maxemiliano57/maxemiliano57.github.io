@@ -53,9 +53,6 @@ All files were organized into appropriate directories (html, css, img, and js) f
 
 ---
 
-## How to Run These Projects
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/maxemiliano57/maxemiliano.github.io
+
   
 
