@@ -26,8 +26,8 @@ Part 1: Edited the provided HTML, CSS, and JavaScript to make non-functional lin
 Part 2: Wrote external JavaScript (dom_scripting.js) to dynamically create and insert additional markup into the page, following the provided screenshot as a reference.
 
 All files were organized into appropriate directories (html, css, img, and js) for server upload and tested for functionality.
-- **Live Demo:** [View Live Project](https://maxemiliano57.github.io/lab10/part01)
-- **Code:** [View on GitHub](https://github.com/maxemiliano57.github.io/lab10/part02)
+- **Live Demo Part 1:** [View Live Project](https://maxemiliano57.github.io/lab10/part01)
+- **Live Demo Part 2:** [View Live Project](https://maxemiliano57.github.io/lab10/part02)
 
 ---
 
