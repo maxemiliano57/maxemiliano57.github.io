@@ -9,7 +9,6 @@ This repository features basic coding projects I’ve created using HTML, CSS, a
 - **Description:** The assignment involves marking up the provided DIG3716c_HTML.pdf document as an HTML5 file according to the specified criteria. The document must validate as HTML5 using the W3C Validator. Follow best practices, including proper indentation, and upload the completed file to the student.gaim.ucf.edu server following the provided instructions.
 - **Live Demo:** [View Live Project](https://maxemiliano57.github.io/html)
 
-
 ---
 
 ### 2. **Lab 0506**
@@ -20,6 +19,7 @@ This repository features basic coding projects I’ve created using HTML, CSS, a
 - **Live Demo Task 4:** [View Live Project](https://maxemiliano57.github.io/lab0506/task4)
 - **Live Demo Task 5:** [View Live Project](https://maxemiliano57.github.io/lab0506/task5)
 - **Live Demo Task 6:** [View Live Project](https://maxemiliano57.github.io/lab0506/task6)
+  
 ---
 
 ### 3. **Lab 10**
